@@ -113,10 +113,10 @@ enableEmoji = true
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "mailto:ndillmanhasso@gmail.com"
-#  [[params.social]]
-#      icon      = "rss" # icon name without the 'fa-'
-#      icon_pack = "fas"
-#      url       = "/blog/index.xml"
+  [[params.social]]
+      icon      = "graduation-cap" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "https://scholar.google.com/citations?user=xxDtDtwAAAAJ&hl=en"
 
 [taxonomies]
   category = "categories"
