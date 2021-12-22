@@ -1,4 +1,4 @@
-baseURL = "https://www.naseemdh.com/"
+baseURL = "naseemdh.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Naseem's Website"
