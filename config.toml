@@ -109,6 +109,10 @@ enableEmoji = true
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-8284-4383"
+  [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "mailto:ndillmanhasso@gmail.com"
 #  [[params.social]]
 #      icon      = "rss" # icon name without the 'fa-'
 #      icon_pack = "fas"
@@ -158,11 +162,11 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+#  [[menu.footer]]
+#    name = "Contact"
+#    title = "Contact form"
+#    url = "/contact/"
+#    weight = 2
 #  [[menu.footer]]
 #    name = "Contributors"
 #    title = "Contributors"
