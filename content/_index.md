@@ -5,7 +5,7 @@ action_type: text
 description: Hi there! I'm Naseem Dillman-Hasso, an Environemntal Social Sciences PhD student at [(the) Ohio State University](https://senr.osu.edu/graduate/environmental-social-sciences). I'm currently advised by [Dr. Robyn Wilson](https://senr.osu.edu/our-people/robyn-s-wilson) and [Dr. Nicole Sintov](https://senr.osu.edu/our-people/nicole-sintov). I'm particularing interested in collective action and sustainable hebavior adoption around climate change. My interests outside of climate change research include open science/scholarship, stenography, and cycling.
 image_left: true
 images:
-- img/naseem.png
+- img/profilephoto.JPG
 show_action_link: true
 show_social_links: true
 subtitle: PhD Student
