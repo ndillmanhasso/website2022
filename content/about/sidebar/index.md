@@ -7,12 +7,12 @@ show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
 link_list_label: "" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Open Science
+  url: https://forrt.org/
+- name: Stenography
+  url: https://www.openstenoproject.org/
+- name: Climate Action
+  url: https://www.sunrisemovement.org/
 ---
 
 ** index doesn't contain a body, just front matter above.
