@@ -1,5 +1,8 @@
 ---
-author: The R Markdown Team @RStudio
+type: project
+cascade:
+  type: project
+author: Naseem Dillman-Hasso
 cascade:
   show_author_byline: true
   show_comments: false
@@ -22,7 +25,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects
-title: A Project Portfolio To Grow
+title: Recent Publications
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
