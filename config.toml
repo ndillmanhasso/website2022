@@ -127,7 +127,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Naseem Dillman-Hasso"
+    title = "About Naseem Dillman Hasso"
     url = "/about/"
     weight = 1
   [[menu.header]]
