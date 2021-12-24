@@ -1,21 +1,19 @@
 ---
-author: Eric Anderson
+author: Naseem Dillman-Hasso
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-02"
+- Open Science
+- Open Scholarship
+- Measurement
+date: "2021-12-24"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: Improving the quality of scientific research and measurement is necessary for the future of scholarship.
 featured: true
 layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
+  name: Center for Open Science
+  url: https://www.cos.io/
 - icon: github
   icon_pack: fab
   name: code
@@ -27,12 +25,10 @@ links:
 subtitle: ""
 tags:
 - hugo-site
-title: Palmer Penguins
+title: Open Science
 ---
 
-### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
-
-*— [Chris House, A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1]
+### “Improving the quality of scientific research and measurement is necessary for the future of scholarship.”
 
 ---
 
