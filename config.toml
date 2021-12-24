@@ -88,7 +88,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/naseemdh"
+      url       = "https://github.com/ndillmanhasso"
 #  [[params.social]]
 #      icon      = "facebook-square" # icon name without the 'fa-'
 #      icon_pack = "fab"
@@ -147,7 +147,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/static/cv.pdf/"
+    url = "/files/cv.pdf/"
     weight = 4
 #  [[menu.header]]
 #    name = "A collection"
