@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "plum"
+  theme = "poppy"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -122,6 +122,10 @@ enableEmoji = true
   category = "categories"
   series = "series"
   tag = "tags"
+
+# Permalinks
+#[permalinks]
+#  publications = "/blog/:filename/"
 
 [menu]
   # Configure header 
