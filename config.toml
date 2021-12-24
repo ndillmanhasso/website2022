@@ -140,15 +140,15 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "CV"
-    title = "CV"
-    url = "/CV/"
-    weight = 4
-  [[menu.header]]
     name = "Interests"
     title = "Interests"
     url = "/project/"
     weight = 3
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/static/cv.pdf/"
+    weight = 4
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
