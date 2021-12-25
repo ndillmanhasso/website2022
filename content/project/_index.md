@@ -21,7 +21,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: Interests
-title: Things that I'm Interested In
+title: A Few Things that I'm Interested In
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
