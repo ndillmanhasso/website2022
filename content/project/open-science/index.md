@@ -12,54 +12,26 @@ layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas
-  name: Center for Open Science
+  name: COS
   url: https://www.cos.io/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
 - icon: newspaper
   icon_pack: far
-  name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
+  name: False-Positive Article
+  url: https://doi.org/10.1177/0956797611417632
+- icon: newspaper
+  icon_pack: far
+  name: Measurement Article
+  url: https://doi.org/10.1177/2515245920952393
 subtitle: ""
 tags:
 - hugo-site
 title: Open Science
 ---
+Open science and scholarship is the way forward in research disciplines. It's obvious that there is a major problem in the ways we conduct, evaluate, and disseminate research. Studies aren't replicating, both in [psychology](https://www.science.org/doi/10.1126/science.aac4716) and [other fields](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970). There is a whole host of potential explanations for this: our publishing systems, incentive structures, accidental misuse of statistical tools, and of course, malicious misrepresentation of data. But that doesn't mean that there aren't solutions out there, but they may be difficult to implement, and implementation can have unintended consequences for early career researchers or individuals who aren't at wealthy and powerful institutions.
 
-### “Improving the quality of scientific research and measurement is necessary for the future of scholarship.”
+I support implementation of a few easy solutions that everyone can implement:
+- *Pre-registration* of eligible studies. While exploratory research is incredibly valuable, it's incredibly important to justify decisions before they're made, in order to avoid p-hacking or HARK-ing.
+- [*The 21-word solution.*](http://dx.doi.org/10.2139/ssrn.2160588) This simple sentence, added to the methods sections of emperical research, reads: "We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study."
+- *Preprints.* Posting versions of articles before they are peer reviewed on public repositories such as [PsyArXiv](https://psyarxiv.com/) increases transparency, visibility, and creates a time-stamped credited version of when a research project was conducted.
+- *Sharing of data, code, and materials.* Along with preprints, sharing data and code (of course, when applicable) makes it easier for individuals to replicate studies, check the quality of code, and conduct meta-analytic studies.
 
----
-
-Since I began building websites in Y2K, I've lost count how many times the phrase "...there's got to be a better way to do this" has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid `TABLE`.
-
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You'd be surprised (or maybe you wouldn't) how challenging the standard header, content, sidebar, footer layout could be to actually get right.
-
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
-
----
-
-### <dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
-
-A proper grid is what we always wanted, no ... _needed_ to build websites with a solid, unbreakable structure. And that's why I used it in this theme. I call this feature a "scaffold" because none of the _content_ is laid out on this grid. Only the main _structure_: consisting of the `header`, `footer`, `main`, `aside`, and `footer`. As you can tell by this quote from the [W3C](https://www.w3.org/TR/css-grid-1/) on the candidate recommendation itself, Grid is the perfect tool for the job:
-
-> ##### CSS Grid Layout Module
->
-> This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.
->
-> — _W3C_
-
-CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:
-
-```css
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, auto);
-}
-```
-
-#### What an amazing time to be a web developer. Anyway, I hope you enjoy this "feature" that you'll probably never notice or even see. Maybe that's the best part of a good user interface – the hidden stuff that just works.
-
-[^1]: The original article cited here is now updated and maintained by the staff over at CSS-Tricks. Bookmark their version if you want to dive in and learn about CSS Grid: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
