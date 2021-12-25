@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/N.jpg"
   logo = "/img/N.jpg"
-  mainSections = ["About", "Publications", "Interests", "CV"]
+  mainSections = ["Home", "About", "Publications", "Interests", "CV"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -130,25 +130,30 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
+    name = "Home"
+    title = ""
+    url = "/"
+    weight = 1
+  [[menu.header]]
     name = "About"
     title = "About Naseem Dillman-Hasso"
     url = "/about/"
-    weight = 1
+    weight = 2
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/blog/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Interests"
     title = "Interests"
     url = "/project/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/files/cv.pdf/"
-    weight = 4
+    weight = 5
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
