@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: PhD Student
 text_align_left: false
-title: Naseem Dillman-Hasso
+title: Naseem H. Dillman-Hasso
 type: home
 ---
 
