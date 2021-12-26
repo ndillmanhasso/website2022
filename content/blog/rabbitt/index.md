@@ -2,6 +2,7 @@
 author: Claire Guang, Emmett Lefkowitz, Naseem H. Dillman-Hasso, Violet A. Brown, Julia F. Strand
 categories:
 - Listening Effort
+- Replication
 date: "2021-03-15"
 draft: false
 excerpt: The presence of masking noise can impair speech intelligibility and increase the attentional and cognitive resources necessary to understand speech...

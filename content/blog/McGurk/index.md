@@ -2,6 +2,7 @@
 author: Violet A. Brown, Maryam Hedayati, Annie Zanger, Sasha Mayn, Lucia Ray, Naseem H. Dillman-Hasso, Julia F. Strand
 categories:
 - McGurk
+- Listening Effort
 date: "2018-11-12"
 draft: false
 excerpt: The McGurk effect is a classic audiovisual speech illusion in which discrepant auditory and visual syllables can lead to a fused percept (e.g., an auditory /bɑ/ paired with a visual /gɑ/ often leads to the perception of /dɑ/). The McGurk effect is robust and easily replicated in pooled group data, but there is tremendous variability in the extent to which individual participants are susceptible to it...

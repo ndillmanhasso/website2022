@@ -2,6 +2,7 @@
 author: Naseem H. Dillman-Hasso
 categories:
 - Climate Change
+- Nature
 date: "2021-02-04"
 draft: false
 excerpt: The connections between climate change and mental health are well known. Research also points to the positive impacts of nature on mental health, well-being, and attention. However, no empirical research has examined how degradation of nature as a result of climate change can impact the mental health benefits that nature provides...

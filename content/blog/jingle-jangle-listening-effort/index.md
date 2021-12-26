@@ -2,6 +2,9 @@
 author: Julia F. Strand, Lucia Ray, Naseem H. Dillman-Hasso, Jed Villanueva, Violet A. Brown
 categories:
 - Listening Effort
+- Open Science
+- Jingle Jangle
+- Measurement
 date: "2021-03-10"
 draft: false
 excerpt: The latent constructs psychologists study are typically not directly accessible, so researchers must design measurement instruments that are intended to provide insights about those constructs. Construct validation—assessing whether instruments measure what they intend to—is therefore critical for ensuring that the conclusions we draw actually reflect the intended phenomena...
