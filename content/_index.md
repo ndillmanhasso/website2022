@@ -13,6 +13,3 @@ text_align_left: false
 title: Naseem H. Dillman-Hasso
 type: home
 ---
-
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
