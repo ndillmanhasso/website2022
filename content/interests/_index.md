@@ -11,7 +11,7 @@ cascade:
 description: Here are a few of the things that I'm interested in, both academically and not.
 layout: list-grid
 show_author_byline: true
-show_button_links: false
+show_button_links: true
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
