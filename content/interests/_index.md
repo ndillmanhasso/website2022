@@ -17,7 +17,7 @@ show_post_thumbnail: true
 sidebar:
   author:
   description: "If you have any thoughts on my interests, reach out to me!"
-  show_sidebar_adunit: false
+  show_sidebar_adunit: true
   text_link_label: ""
   text_link_url: ""
   title: Interests
