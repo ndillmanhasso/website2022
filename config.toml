@@ -147,7 +147,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Interests"
     title = "Interests"
-    url = "/project/"
+    url = "/interests/"
     weight = 4
   [[menu.header]]
     name = "CV"
