@@ -1,7 +1,7 @@
 ---
 author: Naseem Dillman-Hasso
 cascade:
-  author: "Naseem Dillman-Hasso"
+  author: Naseem Dillman-Hasso
   show_author_byline: true
   show_comments: false
   show_post_date: true
