@@ -6,7 +6,7 @@ cascade:
   show_comments: false
   show_post_date: true
   sidebar:
-    show_sidebar_adunit: false
+    show_sidebar_adunit: true
     text_link_label: View recent publications
     text_link_url: /publications/
 description: "This is a repository of recent publications."
