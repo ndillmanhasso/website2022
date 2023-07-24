@@ -17,7 +17,7 @@ show_post_date: false
 show_post_thumbnail: false
 sidebar:
   author: 
-  description: "Here is where you can find my most recent publications. \nMost publications should be available open source, or at least have an    open source link."
+  description: "Here is where you can find my most recent publications. \nMost publications should be available open source, or at least have an open source link."
   show_sidebar_adunit: true
 #  text_link_label: Subscribe via RSS
   text_link_url: /index.xml
