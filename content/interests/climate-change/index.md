@@ -7,6 +7,7 @@ categories:
 date: "2021-12-25"
 draft: false
 excerpt: The majority of my research focuses on climate change, sustainability, and collective action.
+featured: true
 layout: single-sidebar
 links:
 subtitle: 
