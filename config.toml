@@ -152,7 +152,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/files/cv.pdf"
+    url = <a href="/files/cv.pdf" target="_blank"></a>
     weight = 5
 #  [[menu.header]]
 #    name = "A collection"
