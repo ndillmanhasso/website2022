@@ -15,7 +15,7 @@ links:
 - icon: file-pdf
   icon_pack: far
   name: PDF
-  url: "/files/art_thesis.pdf/"
+  url: "/files/art_thesis.pdf"
 subtitle: PsyArXiv
 title: SENIOR THESIS - When the Nature of ‘Nature’ is Inconsistent - Evaluating the Natural Environment in Attention Restoration Theory
 ---

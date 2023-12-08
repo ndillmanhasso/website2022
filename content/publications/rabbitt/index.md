@@ -15,7 +15,7 @@ links:
 - icon: file-pdf
   icon_pack: far
   name: PDF
-  url: "/files/rabbitt.pdf/"
+  url: "/files/rabbitt.pdf"
 - icon: file-code
   icon_pack: far
   name: OSF Page

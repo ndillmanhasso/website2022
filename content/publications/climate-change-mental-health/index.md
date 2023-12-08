@@ -15,7 +15,7 @@ links:
 - icon: file-pdf
   icon_pack: far
   name: PDF
-  url: "/files/nature_buffer.pdf/"
+  url: "/files/nature_buffer.pdf"
 subtitle: Journal of Environmental Studies and Sciences
 title: The nature buffer - the missing link in climate change and mental health research
 ---

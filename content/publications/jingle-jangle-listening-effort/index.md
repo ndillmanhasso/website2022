@@ -17,7 +17,7 @@ links:
 - icon: file-pdf
   icon_pack: far
   name: PDF
-  url: "/files/jingle_jangle.pdf/"
+  url: "/files/jingle_jangle.pdf"
 subtitle: Auditory Perception & Cognition
 title: Understanding Speech amid the Jingle and Jangle - Recommendations for Improving Measurement Practices in Listening Effort Research
 ---
