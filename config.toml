@@ -152,7 +152,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "https://www.naseemdh.com/files/cv.pdf"
+    url = "http://www.naseemdh.com/files/cv.pdf"
     weight = 5
 #  [[menu.header]]
 #    name = "A collection"
