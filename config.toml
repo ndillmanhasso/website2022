@@ -152,7 +152,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "http://www.naseemdh.com/files/cv.pdf"
+    url = "files/cv.pdf"{:target="_blank"}
     weight = 5
 #  [[menu.header]]
 #    name = "A collection"
